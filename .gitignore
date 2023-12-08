@@ -1,0 +1,7 @@
+__pycache__/
+landmarks
+.venv/
+sibi
+*.task
+*.zip
+*.h5
